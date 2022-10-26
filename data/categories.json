@@ -1,0 +1,26 @@
+[
+    {
+      "id": "01",
+      "name": "Computer Engineering"
+    },
+    {
+      "id": "02",
+      "name": "Mechanical Engineering"
+    },
+    {
+      "id": "03",
+      "name": "Electronics Engineering"
+    },
+    {
+      "id": "04",
+      "name": "Electrical Engineering"
+    },
+    {
+      "id": "05",
+      "name": "Architectural Engineering"
+    },
+    {
+      "id": "08",
+      "name": "All Courses"
+    }
+  ]

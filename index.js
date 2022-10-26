@@ -21,10 +21,15 @@ app.get('/category/:id', (req, res) => {
 app.get('/course',(req,res)=>{
     res.send(courses)
 })
-app.get('/course/:id', (req, res) => {
+app.get('/courses/:id', (req, res) => {
     const id = req.params.id;
-    const selectedNews = courses.find(n => n.id === id);
-    res.send(selectedNews);
+    const selectCours = courses.find(n => n.id === id);
+    res.send(selectCours);
+});
+app.get('/checkout/:id', (req, res) => {
+    const id = req.params.id;
+    const selectCours = courses.find(n => n.id === id);
+    res.send(selectCours);
 });
 app.listen(port,()=>{
     console.log('port is running');

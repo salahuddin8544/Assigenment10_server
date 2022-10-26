@@ -1,7 +1,7 @@
 [
     {
         "id": "6358a24ab2a87b31ee5714f1",
-        "category_id": "<ReferenceError: numberId is not defined>",
+        "category_id": "01",
         "index": 0,
         "photoURL":"https://images2.content-hci.com/commimg/myhotcourses/blog/post/myhc_89683.jpg",
         "name": "What to expect when studying computer science",
@@ -9,123 +9,123 @@
       } ,
     {
       "id": "6358a24a64bdf035399bc197",
-      "category_id": "<ReferenceError: numberId is not defined>",
+      "category_id": "01",
       "index": 1,
       "photoURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWphZmlHK3dzZ0MZf3okiglPIfNPkdesHQL0Z461L93ne4TS_J3Igyu_nr8m36ZMMINic&usqp=CAU",
       "name": "5 Study Tips that Will Make You a Successful Computer Science Student",
       "title": "<ReferenceError: anything is not defined>",
-      "discription": "Most of the time it’s not about asking yourself what should I learn as a Computer Science student, but more about how to do it. So here are some Computer Science study tips: all courses in this field rock, but they won’t cover all the skills you might need in a job. For example, if you’re planning to go into software development, you might learn a considerable amount of programming languages, but you may need to go beyond that for work."
+      "description": "Most of the time it’s not about asking yourself what should I learn as a Computer Science student, but more about how to do it. So here are some Computer Science study tips: all courses in this field rock, but they won’t cover all the skills you might need in a job. For example, if you’re planning to go into software development, you might learn a considerable amount of programming languages, but you may need to go beyond that for work."
     },
     {
       "id": "6358a24af482f2cf85955fe7",
-      "category_id": "<ReferenceError: numberId is not defined>",
+      "category_id": "01",
       "index": 2,
       "photoURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTryD-GKVjOEzMtuoJFEdOf815XiJim2J6-QA&usqp=CAU",
       "name": "Welcome to the Department of Computer Science",
       "title": "<ReferenceError: anything is not defined>",
-      "discription": "Our program imparts a strong background in the fundamentals of computer science and engineering, so that our students are prepared to enter a diverse and quickly changing job market. We also offer a wide array of upper level classes for students to learn from our faculty experts in databases, artificial intelligence, robotics, software engineering, algorithms, networking and high performance computing. We connect students with researchers and real-world clients so that they can hit the ground running after graduation, whether they pursue a career in industry or academia."
+      "description": "Our program imparts a strong background in the fundamentals of computer science and engineering, so that our students are prepared to enter a diverse and quickly changing job market. We also offer a wide array of upper level classes for students to learn from our faculty experts in databases, artificial intelligence, robotics, software engineering, algorithms, networking and high performance computing. We connect students with researchers and real-world clients so that they can hit the ground running after graduation, whether they pursue a career in industry or academia."
     },
     {
         "id": "6358a24a9e7e426afc2af7d9",
-        "category_id": "<ReferenceError: numberId is not defined>",
+        "category_id": "01",
         "index": 3,
         "photoURL": "https://www.mooc.org/hubfs/cybersecurity-computer-science.jpg",
         "name": "Cybersecurity and Computer Science: What’s the Connection?",
         "title": "<ReferenceError: anything is not defined>",
-        "discription": "Cybersecurity is the practice of protecting computer systems, computer networks, and digital information. Also called “computer security” or “information technology security,” cybersecurity is part of the computer science field. However, cybersecurity is a more specialized field with a narrower and more focused skill set. "
+        "description": "Cybersecurity is the practice of protecting computer systems, computer networks, and digital information. Also called “computer security” or “information technology security,” cybersecurity is part of the computer science field. However, cybersecurity is a more specialized field with a narrower and more focused skill set. "
       }
     
       
 ,
       {
         "id": "6358a24aebcbf6bcf31d120c",
-        "category_id": "<ReferenceError: numberId is not defined>",
+        "category_id": "02",
         "index": 4,
         "photoURL": "https://i.pinimg.com/originals/3f/af/92/3faf92b0ec8e7803f92e24068d04734e.jpg",
         "name": "Civil Engineering",
         "title": "<ReferenceError: anything is not defined>",
-        "discription": "What would it feel like to have the expertise to build a school that could withstand an earthquake, a road system that puts an end to chronic traffic jams, or a sports stadium that offers everyone a great view? As a civil engineer, your job would be to oversee the construction of the buildings and infrastructure that make up our world: highways, skyscrapers, railways, bridges, and water reservoirs, as well as some of the most spectacular and high-profile of all engineering feats—think of the iconic Freedom Tower in New York, or the fire-breathing Dragon bridge in Vietnam. Civil engineers are fond of saying that it’s architects who put designs on paper, but engineers who actually get things built."
+        "description": "What would it feel like to have the expertise to build a school that could withstand an earthquake, a road system that puts an end to chronic traffic jams, or a sports stadium that offers everyone a great view? As a civil engineer, your job would be to oversee the construction of the buildings and infrastructure that make up our world: highways, skyscrapers, railways, bridges, and water reservoirs, as well as some of the most spectacular and high-profile of all engineering feats—think of the iconic Freedom Tower in New York, or the fire-breathing Dragon bridge in Vietnam. Civil engineers are fond of saying that it’s architects who put designs on paper, but engineers who actually get things built."
       },
       {
         "id": "6358a24ae54a39e809dbd340",
-        "category_id": "<ReferenceError: numberId is not defined>",
+        "category_id": "02",
         "index": 5,
         "photoURL": "https://cdn.shopify.com/s/files/1/0306/6419/6141/articles/Untitled_design_800x.png?v=1657832281",
         "name": "What do civil engineers do?",
         "title": "<ReferenceError: anything is not defined>",
-        "discription": "Civil engineers are responsible for the design, construction, and maintenance of infrastructure projects and systems. This can include everything from bridges and highways to water treatment plants and sewer systems. Civil engineers must consider many factors when designing a project, such as safety, cost, utility, and aesthetics. Civil engineers must ensure that their designs are safe for the public. They must take into account the loads that the structure will be subjected to, such as wind, snow, and earthquakes. The structure must be able to support these loads without collapsing."
+        "description": "Civil engineers are responsible for the design, construction, and maintenance of infrastructure projects and systems. This can include everything from bridges and highways to water treatment plants and sewer systems. Civil engineers must consider many factors when designing a project, such as safety, cost, utility, and aesthetics. Civil engineers must ensure that their designs are safe for the public. They must take into account the loads that the structure will be subjected to, such as wind, snow, and earthquakes. The structure must be able to support these loads without collapsing."
       },
       {
         "id": "6358a24ad50be1168ab2adcf",
-        "category_id": "<ReferenceError: numberId is not defined>",
+        "category_id": "02",
         "index": 6,
         "photoURL": "https://www.andersoneng.com/wp-content/uploads/2022/06/civilengineerenvironment-Large.jpeg",
         "name": "How Civil Engineering Provides A Positive Environmental Impact",
         "title": "<ReferenceError: anything is not defined>",
-        "discription": "Surveying is one of the most crucial aspects of civil engineering. It deals with inspecting land to be developed, the lines between public and private land, and drawing up plans for building. The natural land that is built on is saved unnecessary development due to this integral part of the engineering process. The process also includes inspecting current and older structures to ensure safety and impact. When a building is “up to code” it has been surveyed properly. Civil engineering encompasses a myriad of skills to perform. It deals with the design of major transportation projects, water supply, sewage treatment, construction, and maintenance. There are about five types of civil engineering projects. Construction and management, structural, geotechnical, transport, and water engineering."
+        "description": "Surveying is one of the most crucial aspects of civil engineering. It deals with inspecting land to be developed, the lines between public and private land, and drawing up plans for building. The natural land that is built on is saved unnecessary development due to this integral part of the engineering process. The process also includes inspecting current and older structures to ensure safety and impact. When a building is “up to code” it has been surveyed properly. Civil engineering encompasses a myriad of skills to perform. It deals with the design of major transportation projects, water supply, sewage treatment, construction, and maintenance. There are about five types of civil engineering projects. Construction and management, structural, geotechnical, transport, and water engineering."
       },
 
 
 
       {
         "id": "6358a24afd4d39f7bbae6bc2",
-        "category_id": "<ReferenceError: numberId is not defined>",
+        "category_id": "03",
         "index": 7,
         "photoURL": "https://i0.wp.com/www.educationrasta.com/wp-content/uploads/2022/02/Diploma-in-Electrical-and-Electronics-Engineering.jpg",
         "name": "DIPLOMA IN ELECTRICAL AND ELECTRONICS ENGINEERING",
         "title": "<ReferenceError: anything is not defined>",
-        "discription": "The diploma in Electrical Engineering (Power option) course is designed for Kenya Certificate of Secondary Education graduate (or equivalent qualification), to provide trainees with skills, knowledge and attitudes that will enable them perform and manage tasks in Electrical Engineering and related fields or progress in further training. The course is in three modules and is competency based, designed with multiple skills to enhance trainees’ adaptability in the formal and the informal employment. Each module prepares the trainee to perform specific task and jobs whose total value combined will impart the desired competence, which will produce the required graduate at the end of the course."
+        "description": "The diploma in Electrical Engineering (Power option) course is designed for Kenya Certificate of Secondary Education graduate (or equivalent qualification), to provide trainees with skills, knowledge and attitudes that will enable them perform and manage tasks in Electrical Engineering and related fields or progress in further training. The course is in three modules and is competency based, designed with multiple skills to enhance trainees’ adaptability in the formal and the informal employment. Each module prepares the trainee to perform specific task and jobs whose total value combined will impart the desired competence, which will produce the required graduate at the end of the course."
       }
       ,{
         "id": "6358a24ae438e2556482e5fc",
-        "category_id": "<ReferenceError: numberId is not defined>",
+        "category_id": "03",
         "index": 8,
         "photoURL": "https://www.uagrantham.edu/wp-content/uploads/2020/11/What-Are-the-Differences-Between-Electric-and-Electronics-Engineering.png",
         "name": "What Are the Differences Between Electric and Electronics Engineering?",
         "title": "<ReferenceError: anything is not defined>",
-        "discription": "Electrical and electronics engineering are related, yet distinct fields, with some amount of overlap. Electrical engineering is a division of engineering focused on the generation and distribution of power, primarily in the form of electricity. Electrical engineers mainly focus on the transmission of electrical power through mechanical equipment, ensuring power flows properly from one location to another. Electronics engineering may be considered a sub-discipline of electrical engineering. It is focused on the design and proper maintenance of electronic equipment, including components and circuitry in computers and related devices"
+        "description": "Electrical and electronics engineering are related, yet distinct fields, with some amount of overlap. Electrical engineering is a division of engineering focused on the generation and distribution of power, primarily in the form of electricity. Electrical engineers mainly focus on the transmission of electrical power through mechanical equipment, ensuring power flows properly from one location to another. Electronics engineering may be considered a sub-discipline of electrical engineering. It is focused on the design and proper maintenance of electronic equipment, including components and circuitry in computers and related devices"
       }
 
 
       ,
       {
         "id": "6358a24a542401a0ca52679d",
-        "category_id": "<ReferenceError: numberId is not defined>",
+        "category_id": "04",
         "index": 9,
         "photoURL": "https://cdn.mos.cms.futurecdn.net/steVjWGx3vYPjMpJL2jVcV-970-80.jpg.webp",
         "name": "What Is Electrical Engineering?",
         "title": "<ReferenceError: anything is not defined>",
-        "discription": "Electrical engineering is one of the newer branches of engineering, and dates back to the late 19th century. It is the branch of engineering that deals with the technology of electricity. Electrical engineers work on a wide range of components, devices and systems, from tiny microchips to huge power station generators.Early experiments with electricity included primitive batteries and static charges. However, the actual design, construction and manufacturing of useful devices and systems began with the implementation"
+        "description": "Electrical engineering is one of the newer branches of engineering, and dates back to the late 19th century. It is the branch of engineering that deals with the technology of electricity. Electrical engineers work on a wide range of components, devices and systems, from tiny microchips to huge power station generators.Early experiments with electricity included primitive batteries and static charges. However, the actual design, construction and manufacturing of useful devices and systems began with the implementation"
       },
       {
         "id": "6358a24a0a5e25c3a9588e50",
-        "category_id": "<ReferenceError: numberId is not defined>",
+        "category_id": "04",
         "index": 10,
         "photoURL": "https://www.northcentralcollege.edu/sites/default/files/styles/full_image_large/public/2019-02/engineering-student-liberal-arts-college.jpg?h=2013c5d2&itok=B9JfrfZb",
         "name": "What Do Electrical Engineers Do?",
         "title": "<ReferenceError: anything is not defined>",
-        "discription": "What is electrical engineering? When it comes to studying engineering, there are a number of different branches you can learn. One of those main specializations is an electrical engineering program. This type of engineering is the design, building and maintenance of devices and systems that are powered by or produce electrical power. hroughout history, electrical engineering jobs have played a huge role. From Thomas Edison’s invention of the electric lightbulb to Philo T. Farnsworth’s invention of television, pioneers in electrical engineering have largely shaped how we live today."
+        "description": "What is electrical engineering? When it comes to studying engineering, there are a number of different branches you can learn. One of those main specializations is an electrical engineering program. This type of engineering is the design, building and maintenance of devices and systems that are powered by or produce electrical power. hroughout history, electrical engineering jobs have played a huge role. From Thomas Edison’s invention of the electric lightbulb to Philo T. Farnsworth’s invention of television, pioneers in electrical engineering have largely shaped how we live today."
       }
 
 ,
 
       {
         "id": "6358a24aab672a644e77e193",
-        "category_id": "<ReferenceError: numberId is not defined>",
+        "category_id": "05",
         "index": 11,
         "photoURL": "https://s3da-design.com/wp-content/uploads/2021/05/Architectural-Engineering-800x500.jpg",
         "name": "The Roles of an Architectural Engineer",
         "title": "<ReferenceError: anything is not defined>",
-        "discription": "The role of an architectural engineer is to know building materials, integrate required materials into a design, know the functionality and behavior of materials, and making a structure. In other words, it covers the technological aspects and multi-disciplinary approach to designing, planning, operating, and construction of buildings. his discipline, though relatively new, is currently at the forefront of two significant historical opportunities that the world faces due to the 21st century’s rapid change;"
+        "description": "The role of an architectural engineer is to know building materials, integrate required materials into a design, know the functionality and behavior of materials, and making a structure. In other words, it covers the technological aspects and multi-disciplinary approach to designing, planning, operating, and construction of buildings. his discipline, though relatively new, is currently at the forefront of two significant historical opportunities that the world faces due to the 21st century’s rapid change;"
       },
       {
         "id": "6358a24a4b2b00ce3a8f7a77",
-        "category_id": "<ReferenceError: numberId is not defined>",
+        "category_id": "05",
         "index": 12,
         "photoURL": "https://wayfinder.utexas.edu/content/images/transforms/heroimagedegree/857/Major-ArchitecturalEngineering_16c5dc923fc396bad0267e5a15927699.jpg",
         "name": "Architectural Engineering Dual Degree Program",
         "title": "<ReferenceError: anything is not defined>",
-        "discription": "This program combines the course requirements of both degrees and requires six years for completion. For prospective freshmen, the home of the dual degree is the School of Architecture. Internal transfers who wish to pursue both degrees must be admitted separately to both the School of Architecture and the Cockrell School of Engineering. Undergraduates currently enrolled at The University of Texas at Austin who wish to complete the Architecture/Architectural Engineering Dual Degree Program must apply for an internal transfer to both the Architecture major in the School of Architecture and the Architectural Engineering major in the Cockrell School of Engineering."
+        "description": "This program combines the course requirements of both degrees and requires six years for completion. For prospective freshmen, the home of the dual degree is the School of Architecture. Internal transfers who wish to pursue both degrees must be admitted separately to both the School of Architecture and the Cockrell School of Engineering. Undergraduates currently enrolled at The University of Texas at Austin who wish to complete the Architecture/Architectural Engineering Dual Degree Program must apply for an internal transfer to both the Architecture major in the School of Architecture and the Architectural Engineering major in the Cockrell School of Engineering."
       }
 
 ]

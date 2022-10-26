@@ -13,7 +13,12 @@ app.get('/',(req,res)=>{
 app.get('/categories',(req,res)=>{
     res.send(categories)
 })
-app.get('/course-all',(req,res)=>{
+app.get('/category/:id', (req, res) => {
+    const id = req.params.id;
+        const category_news = courses.filter(n => n.category_id === id);
+        res.send(category_news);
+})
+app.get('/course',(req,res)=>{
     res.send(courses)
 })
 app.listen(port,()=>{
